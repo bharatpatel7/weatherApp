@@ -31,6 +31,5 @@ WeatherApp is licensed under the [MIT License](LICENSE).
 Ready to embark on your weather journey? Have questions, feedback, or just want to say hello? Don't be shy! Reach out to the developers and let's connect:
 
 - **Bharat Garsondiya**: bharat.garsondiya2609@gmail.com
-- **Tannu Singal**: tannusingal33@gmail.com
 
 Let's make every forecast an adventure with WeatherApp! 🚀
